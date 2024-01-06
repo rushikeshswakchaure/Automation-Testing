@@ -29,7 +29,6 @@ public class singleSelect {
 		
 		//s.selectByValue("Poland");
 		
-		
 		s.selectByVisibleText("Poland");
 		
 	}
